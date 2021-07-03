@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RigidBodyInteractive
+- 👋 Hi, I’m Claudio @RigidBodyInteractive
 - 👀 I’m interested in Videogame Developing, Graphic Design
 - 🌱 I’m currently learning C#, Unity 3D
 - 💞️ I’m looking to collaborate on some games i'm creating
